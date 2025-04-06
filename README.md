@@ -1,0 +1,1 @@
+This portfolio website is a clean and responsive web app built using HTML, JavaScript, and Tailwind CSS. It showcases my projects, skills, and contact information in a modern and minimal design. The site is fully responsive, fast-loading, and deployed on Vercel for seamless access across all devices.
